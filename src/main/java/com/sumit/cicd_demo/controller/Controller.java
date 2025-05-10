@@ -8,6 +8,6 @@ public class Controller {
 
     @GetMapping("/home")
     public String homePage(){
-        return "WElCOME TO HOME PAGE";
+        return "WElCOME TO JSPL HOME ";
     }
 }
